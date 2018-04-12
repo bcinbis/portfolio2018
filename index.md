@@ -8,11 +8,11 @@ This is a compilation of my works in Java and Python.
 
 ### Computer History Timeline
 
-
+Source code:
 
 ### Bushels to Pounds Converter
 
-
+Source code:
 
 ### Calculator
 
@@ -20,13 +20,15 @@ This is a compilation of my works in Java and Python.
 
 ### Etch-a-Sketch
 
-
+Source code:
 
 ### screenSaver
 
-
+Source code:
 
 ### spaceshipGame
+
+Source code:
 
 # Python Works
 ## These were coded using the Python mode of Processing, as well as IDLE.
@@ -34,12 +36,12 @@ This is a compilation of my works in Java and Python.
 
 ### shapeTester
 
-
+Source code:
 
 ### 99 Bottles
 
-
+Source code:
 
 ### snakeGame
 
-
+Source code:
