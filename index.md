@@ -6,26 +6,40 @@ This is a compilation of my works in Java and Python.
 ## These were coded using the Processing application. 
 
 
-Computer History Timeline
+### Computer History Timeline
 
-Bushels to Pounds Converter
 
-Calculator
 
-Etch-a-Sketch
+### Bushels to Pounds Converter
 
-screenSaver
 
-spaceshipGame
+
+### Calculator
+
+
+
+### Etch-a-Sketch
+
+
+
+### screenSaver
+
+
+
+### spaceshipGame
 
 # Python Works
 ## These were coded using the Python mode of Processing, as well as IDLE.
 
 
-shapeTester
+### shapeTester
 
-99 Bottles
 
-snakeGame
+
+### 99 Bottles
+
+
+
+### snakeGame
 
 
