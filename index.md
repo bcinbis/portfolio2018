@@ -3,6 +3,7 @@
 This is a compilation of my works in Java and Python.
 
 # Java Works
+
 ## These were coded using the Processing application. 
 
 
@@ -31,6 +32,7 @@ Source code:
 Source code:
 
 # Python Works
+
 ## These were coded using the Python mode of Processing, as well as IDLE.
 
 
