@@ -23,11 +23,11 @@ Source code:
 
 Source code:
 
-### screenSaver
+### ScreenSaver
 
 Source code:
 
-### spaceshipGame
+### SpaceshipGame
 
 Source code:
 
@@ -36,14 +36,14 @@ Source code:
 ## These were coded using the Python mode of Processing, as well as IDLE.
 
 
-### shapeTester
+### ShapeTester
 
 Source code:
 
-### 99 Bottles
+### 99Bottles
 
 Source code:
 
-### snakeGame
+### SnakeGame
 
 Source code:
