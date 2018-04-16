@@ -1,4 +1,4 @@
-# Welcome to my dank Portfolio
+# Welcome to my Dank Portfolio
 
 This is a compilation of my works in Java and Python.
 
@@ -10,25 +10,37 @@ This is a compilation of my works in Java and Python.
 
 ### Computer History Timeline
 
+Interactive timeline of significant elements of computer history.
+
 Source code:
 
 ### Bushels to Pounds Converter
+
+Converts bushels (as in bushels of potatoes) into pounds, with an intersting easter egg.
 
 Source code:
 
 ### Calculator
 
+It's a calculator.
+
 Source code:
 
 ### Etch-a-Sketch
+
+It may an imprecise way of drawing, but you don't need to move your hand and it takes no skill whatsoever.
 
 Source code:
 
 ### ScreenSaver
 
+Colorful patterns all over your monitor.  May trigger seizures.
+
 Source code:
 
 ### SpaceshipGame
+
+Semifunctional spaceship game, complete with a dynamic background and obstacles.
 
 Source code:
 
@@ -40,12 +52,18 @@ Source code:
 
 ### ShapeTester
 
+App coded in idle that will find the area and volume of various 3D shapes.
+
 Source code:
 
 ### 99Bottles
 
+Prints the lyrics of 99 bottles of beer with less than 4 lines of code.
+
 Source code:
 
 ### SnakeGame
+
+App coded on python mode of processing based on the classic snake game.  Work in progress.
 
 Source code:
