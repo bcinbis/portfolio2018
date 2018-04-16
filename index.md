@@ -7,6 +7,7 @@ This is a compilation of my works in Java and Python.
 ## These were coded using the Processing application. 
 
 
+
 ### Computer History Timeline
 
 Source code:
@@ -34,6 +35,7 @@ Source code:
 # Python Works
 
 ## These were coded using the Python mode of Processing, as well as IDLE.
+
 
 
 ### ShapeTester
