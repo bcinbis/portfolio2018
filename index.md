@@ -66,7 +66,7 @@ Source code: https://github.com/bcinbis/portfolio2018/blob/master/Python/99Bottl
 
 App coded on python mode of processing based on the classic snake game.  Work in progress.
 
-Source code: 
+Source code: https://github.com/bcinbis/portfolio2018/tree/master/Python/SnakeGame
 
 ### AgeCalculator
 
