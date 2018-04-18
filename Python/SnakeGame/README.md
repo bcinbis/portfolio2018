@@ -4,6 +4,8 @@ Final python group project, by Alex Sheppard, Baran Cinbis, Hayden Soelberg, and
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Python/SnakeGame/SourceCode)
 
+[Home](https://bcinbis.github.io/portfolio2018/)
+
 ---
 
 ![alt text](https://bcinbis.github.io/portfolio2018/Images/Snake.png)
