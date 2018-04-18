@@ -4,6 +4,8 @@ Interactive timeline coded in the Processing IDE that shows major events in comp
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline/SourceCode.pde)
 
+[Home](https://bcinbis.github.io/portfolio2018/)
+
 ---
 
 ![alt text](https://bcinbis.github.io/portfolio2018/Images/Timeline.png)
