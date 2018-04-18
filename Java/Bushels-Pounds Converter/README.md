@@ -11,5 +11,5 @@ This is a project coded in Processing that converts bushels of potatoes to pound
 
 ---
 
-![alt text](https://github.com/bcinbis/portfolio2018/blob/master/Images/Converter1.png)
+![alt text](https://github.com/bcinbis/portfolio2018/blob/master/Images/Converter2.png)
 
