@@ -14,7 +14,7 @@ This is a compilation of my works in Java and Python.
 
 Interactive timeline of significant elements of computer history.
 
-[more](https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline)
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline)
 
 
 
@@ -24,7 +24,7 @@ Converts bushels (as in bushels of potatoes) into pounds, with a rad easter egg.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Java/Bushels-Pounds%20Converter
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Java/Bushels-Pounds%20Converter)
 
 ### Calculator
 
@@ -32,7 +32,7 @@ It's a calculator.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/tree/master/Java/Calculator
+[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/Calculator)
 
 ### Etch-a-Sketch
 
@@ -40,15 +40,17 @@ It may an imprecise way of drawing, but you don't need to move your hand and it 
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Java/Etch-a-Sketch
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Java/Etch-a-Sketch)
 
 ### ScreenSaver
 
-Colorful patterns all over your monitor.  May trigger seizures.
+Colorful patterns all over your monitor.  May trigger seizures.  
+
+Just kidding?  I'm not sure to be honest.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/tree/master/Java/ScreenSaver
+[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/ScreenSaver)
 
 ### SpaceshipGame
 
@@ -56,7 +58,7 @@ Semifunctional spaceship game, complete with a dynamic background and obstacles.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/tree/master/Java/SpaceGame
+[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/SpaceGame)
 
 # Python Works
 
@@ -70,7 +72,7 @@ App coded in idle that will find the area and volume of various 3D shapes.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/tree/master/Python/ShapeTester
+[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Python/ShapeTester)
 
 ### 99Bottles
 
@@ -78,7 +80,7 @@ Prints the lyrics of 99 bottles of beer with less than 4 lines of code.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Python/99Bottles
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/99Bottles)
 
 ### SnakeGame
 
@@ -86,7 +88,7 @@ Group project pp coded on python mode of processing based on the classic snake g
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/tree/master/Python/SnakeGame
+[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Python/SnakeGame)
 
 ### AgeCalculator
 
@@ -94,7 +96,7 @@ App that calculates users age based on the input of their birthdate.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Python/AgeCalculator
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/AgeCalculator)
 
 ### NumberGuesser
 
@@ -102,7 +104,7 @@ Primitive game in which user tries to guess a number that is randomly generated 
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Python/NumberGuesser
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/NumberGuesser)
 
 ### PigLatin
 
@@ -110,4 +112,4 @@ Translates inputed user code into pig latin.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Python/PigLatin
+[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/PigLatin)
