@@ -5,6 +5,8 @@ This project converts user inputted words into PigLatin using a preset formula. 
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Python/PigLatin/SourceCode.py)
 
+[Home](https://bcinbis.github.io/portfolio2018/)
+
 ---
 
 ![alt text](https://bcinbis.github.io/portfolio2018/Images/Pig.png)
