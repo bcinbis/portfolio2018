@@ -4,21 +4,23 @@ This is a compilation of my works in Java and Python.
 
 # Java Works
 
+---
+
 ## These were coded using the Processing application. 
 
-
+---
 
 ### Computer History Timeline
 
 Interactive timeline of significant elements of computer history.
 
+[more](https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline)
 
 
-[Source code] (https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline)
 
 ### Bushels to Pounds Converter
 
-Converts bushels (as in bushels of potatoes) into pounds, with an intersting easter egg.
+Converts bushels (as in bushels of potatoes) into pounds, with a rad easter egg.
 
 
 
