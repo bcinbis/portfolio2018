@@ -23,7 +23,7 @@ Converts bushels (as in bushels of potatoes) into pounds, with a rad easter egg.
 
 
 
-[More about this project](https://bcinbis.github.io/portfolio2018/Java/Bushels-Pounds Converter/)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/Bushels-Pounds%20Converter/)
 
 ---
 
