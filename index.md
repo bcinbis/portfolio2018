@@ -14,7 +14,7 @@ Interactive timeline of significant elements of computer history.
 
 
 
-Source code: https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline
+[Source code] (https://github.com/bcinbis/portfolio2018/blob/master/Java/Timeline)
 
 ### Bushels to Pounds Converter
 
