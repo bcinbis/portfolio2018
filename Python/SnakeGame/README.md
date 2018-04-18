@@ -6,4 +6,4 @@ Final python group project, by Alex Sheppard, Baran Cinbis, Hayden Soelberg, and
 
 ---
 
-![alt text](https://bcinbis.github.io/portfolio2018/Images/bottles.png)
+![alt text](https://bcinbis.github.io/portfolio2018/Images/Snake.png)
