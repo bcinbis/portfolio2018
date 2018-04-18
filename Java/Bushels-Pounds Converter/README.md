@@ -3,7 +3,7 @@
 This is a project coded in Processing that converts bushels of potatoes to pounds, and vice versa.  There's also a cool button you should press.
 
 
-[Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Java/Bushels-Pounds_Converter/SourceCode.pde)
+[Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Java/Bushels-PoundsConverter/SourceCode.pde)
 
 ---
 
