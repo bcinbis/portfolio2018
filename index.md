@@ -5,7 +5,6 @@ This is a compilation of my works in Java and Python.
 ---
 
 # Java Works
-
 ## These were coded using the Processing application. 
 
 ---
