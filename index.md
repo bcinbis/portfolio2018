@@ -5,7 +5,7 @@ This is a compilation of my works in Java and Python.
 ---
 
 # Java Works
-## These were coded using the Processing application. 
+These were coded using the Processing application. 
 
 ---
 
@@ -71,8 +71,7 @@ Semifunctional spaceship game, complete with a dynamic background and obstacles.
 
 # Python Works
 ---
-
-## These were coded using the Python mode of Processing, as well as IDLE.
+These were coded using the Python mode of Processing, as well as IDLE.
 
 ---
 
