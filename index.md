@@ -23,7 +23,7 @@ Converts bushels (as in bushels of potatoes) into pounds, with a rad easter egg.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Java/Bushels-Pounds%20Converter)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/Bushels-Pounds Converter/)
 
 ---
 
@@ -33,7 +33,7 @@ It's a calculator.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/Calculator)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/Calculator/)
 
 ---
 
@@ -43,7 +43,7 @@ It may an imprecise way of drawing, but you don't need to move your hand and it 
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Java/Etch-a-Sketch)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/Etch-a-Sketch/)
 
 ---
 
@@ -55,7 +55,7 @@ Just kidding?  I'm not sure to be honest.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/ScreenSaver)
+[More about this project](https://bcinbis.github.io/portfolio2018/ScreenSaver/)
 
 ---
 
@@ -65,7 +65,7 @@ Semifunctional spaceship game, complete with a dynamic background and obstacles.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Java/SpaceGame)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/SpaceGame/)
 
 -----------
 
@@ -81,7 +81,7 @@ App coded in idle that will find the area and volume of various 3D shapes.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Python/ShapeTester)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/ShapeTester/)
 
 ---
 
@@ -91,17 +91,17 @@ Prints the lyrics of 99 bottles of beer with less than 4 lines of code.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/99Bottles)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/99Bottles/)
 
 ---
 
 ### SnakeGame
 
-Group project pp coded on python mode of processing based on the classic snake game.  Work in progress.
+Group project coded on python mode of processing based on the classic snake game.  Work in progress.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/tree/master/Python/SnakeGame)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/SnakeGame/)
 
 ---
 
@@ -111,7 +111,7 @@ App that calculates users age based on the input of their birthdate.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/AgeCalculator)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/AgeCalculator/)
 
 ---
 
@@ -121,7 +121,7 @@ Primitive game in which user tries to guess a number that is randomly generated 
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/NumberGuesser)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/NumberGuesser/)
 
 ---
 
@@ -131,4 +131,4 @@ Translates inputed user code into pig latin.
 
 
 
-[More about this project](https://github.com/bcinbis/portfolio2018/blob/master/Python/PigLatin)
+[More about this project](https://bcinbis.github.io/portfolio2018/Python/PigLatin/)
