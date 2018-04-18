@@ -13,7 +13,7 @@ These were coded using the Processing application.
 
 Interactive timeline of significant elements of computer history.
 
-[More about this project](https://bcinbis.github.io/portfolio2018/Timeline/)
+[More about this project](https://bcinbis.github.io/portfolio2018/Java/Timeline/)
 
 ---
 
