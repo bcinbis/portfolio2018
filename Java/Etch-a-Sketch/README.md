@@ -4,6 +4,8 @@ This was a project coded in processing.  It is a arrow-key controlled edge a ske
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Java/Etch-a-Sketch/SourceCode.pde)
 
+[Home](https://bcinbis.github.io/portfolio2018/)
+
 ---
 
 ![alt text](https://bcinbis.github.io/portfolio2018/Images/Sketch.png)
