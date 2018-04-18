@@ -1,6 +1,6 @@
-# 99 Bottles
+# Age Calculator
 
-This was a project coded in IDLE.  It prints the lyrics to 99 Bottles of Beer on a Wall using 4 lines of code that count down.
+This was a project coded in IDLE.  It receives user input of their age and then returns their age using a variety of units of time.
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Python/AgeCalculator/SourceCode.py)
 
