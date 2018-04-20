@@ -1,6 +1,6 @@
 # Calculator
 
-This was a project coded in processing.  
+This was a project coded in processing.  Functionality includes basic operations, squareroot, 
 
 [Source Code](https://github.com/bcinbis/portfolio2018/blob/master/Java/Calculator/SourceCode.pde)
 
