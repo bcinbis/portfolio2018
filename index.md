@@ -2,7 +2,7 @@
 
 This is a compilation of my works in Java and Python.
 
-![alt text](https://bcinbis.github.io/portfolio2018/Images/prog.jpeg
+![alt text](https://bcinbis.github.io/portfolio2018/Images/prog.jpeg)
 
 
 [My Github](https://github.com/bcinbis)
