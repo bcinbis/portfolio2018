@@ -3,7 +3,7 @@
 This is a compilation of my works in Java and Python.
 
 img src (https://bcinbis.github.io/portfolio2018/Images/prog.jpeg)
-<img src = "https://bcinbis.github.io/portfolio2018/Images/prog.jpeg" width = "700" height = "468"/>
+<img src = "https://bcinbis.github.io/portfolio2018/Images/prog.jpg" width = "700" height = "468"/>
 
 
 [My Github](https://github.com/bcinbis)
