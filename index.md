@@ -1,4 +1,4 @@
-# Welcome to my Dank Portfolio
+# Welcome to my Turnt Portfolio
 
 This is a compilation of my works in Java and Python.
 
@@ -15,7 +15,7 @@ These were coded using the Processing application.
 
 ### Computer History Timeline
 
-Interactive timeline of significant elements of computer history.
+Interactive timeline of significant elements of computer history. 
 
 [More about this project](https://bcinbis.github.io/portfolio2018/Java/Timeline/)
 
